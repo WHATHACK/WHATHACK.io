@@ -2,6 +2,7 @@
   {
     "name": "Hulk",
     "description": "is strong",
+    "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hindustantimes.com%2Frf%2Fimage_size_960x540%2FHT%2Fp2%2F2018%2F06%2F15%2FPictures%2F_1caf1900-7098-11e8-bbf6-b72314b60444.jpg&imgrefurl=https%3A%2F%2Fwww.hindustantimes.com%2Fhollywood%2Ffirst-avengers-4-footage-teases-new-armour-for-hulk-time-travel-report%2Fstory-MyvsMCpAPRL9CkiZJNSQTP.html&docid=0dA_XjYPcNOpUM&tbnid=IuSm1zmzoiIeoM%3A&vet=10ahUKEwjZpu_R9rLgAhWZGDQIHXNLCUEQMwhvKAUwBQ..i&w=960&h=540&bih=716&biw=1363&q=hulk&ved=0ahUKEwjZpu_R9rLgAhWZGDQIHXNLCUEQMwhvKAUwBQ&iact=mrc&uact=8",
     "foods": {
       "likes": ["crazy", "tasty"],
       "dislikes": ["bacon", "power"]
@@ -11,6 +12,8 @@
   {
     "name": "superman",
     "description": "is also strong",
+    "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hindustantimes.com%2Frf%2Fimage_size_960x540%2FHT%2Fp2%2F2018%2F06%2F15%2FPictures%2F_1caf1900-7098-11e8-bbf6-b72314b60444.jpg&imgrefurl=https%3A%2F%2Fwww.hindustantimes.com%2Fhollywood%2Ffirst-avengers-4-footage-teases-new-armour-for-hulk-time-travel-report%2Fstory-MyvsMCpAPRL9CkiZJNSQTP.html&docid=0dA_XjYPcNOpUM&tbnid=IuSm1zmzoiIeoM%3A&vet=10ahUKEwjZpu_R9rLgAhWZGDQIHXNLCUEQMwhvKAUwBQ..i&w=960&h=540&bih=716&biw=1363&q=hulk&ved=0ahUKEwjZpu_R9rLgAhWZGDQIHXNLCUEQMwhvKAUwBQ&iact=mrc&uact=8",
+
     "foods": {
       "likes": ["crazy", "tasty"],
       "dislikes": ["bacon", "power"]
@@ -20,6 +23,8 @@
   {
     "name": "superwoman",
     "description": "is also really strong",
+    "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hindustantimes.com%2Frf%2Fimage_size_960x540%2FHT%2Fp2%2F2018%2F06%2F15%2FPictures%2F_1caf1900-7098-11e8-bbf6-b72314b60444.jpg&imgrefurl=https%3A%2F%2Fwww.hindustantimes.com%2Fhollywood%2Ffirst-avengers-4-footage-teases-new-armour-for-hulk-time-travel-report%2Fstory-MyvsMCpAPRL9CkiZJNSQTP.html&docid=0dA_XjYPcNOpUM&tbnid=IuSm1zmzoiIeoM%3A&vet=10ahUKEwjZpu_R9rLgAhWZGDQIHXNLCUEQMwhvKAUwBQ..i&w=960&h=540&bih=716&biw=1363&q=hulk&ved=0ahUKEwjZpu_R9rLgAhWZGDQIHXNLCUEQMwhvKAUwBQ&iact=mrc&uact=8",
+
     "foods": {
       "likes": ["crazy", "tasty"],
       "dislikes": ["bacon", "power"]
