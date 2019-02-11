@@ -1,19 +1,29 @@
 [
-	{
-		"name": "Hulk",
-		"description": "is strong"
+  {
+    "name": "Hulk",
+    "description": "is strong",
+    "foods": {
+      "likes": ["crazy", "tasty"],
+      "dislikes": ["bacon", "power"]
+    }
 
-	},
-	{
-		"name": "superman",
-		"description": "is also strong"
-	},
+  },
+  {
+    "name": "superman",
+    "description": "is also strong",
+    "foods": {
+      "likes": ["crazy", "tasty"],
+      "dislikes": ["bacon", "power"]
+    }
+  },
 
-	{
-		"name": "superwoman",
-		"description": "is also really strong"
-	}
-
-
+  {
+    "name": "superwoman",
+    "description": "is also really strong",
+    "foods": {
+      "likes": ["crazy", "tasty"],
+      "dislikes": ["bacon", "power"]
+    }
+  }
 
 ]
